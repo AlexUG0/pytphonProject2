@@ -8,3 +8,4 @@ def fit_in_boxes(content, slot=2):
 
 
 print(fit_in_boxes([1, 2, 3, 4, 5, 6, 7, 8, 9], 4))
+print(fit_in_boxes([1, 2, 3, 4, 5, 6, 7, 8, 9], 3))
